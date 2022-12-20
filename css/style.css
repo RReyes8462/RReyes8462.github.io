@@ -1,3 +1,37 @@
+/*  
+#EA9E8D Vivid Tangerine
+#3c6E71 Ming (turquoiseish)
+#B2E4DB Middle Blue Green
+#B0C6CE Beau Blue
+#D64550 English Vermillion
+#343434 dark gray/blackish
+#172A3A Prussian Blue
+#172A3A Blue Sapphire
+*/
+/* Global stuff*/
 img {
     width: 300px;
 }
+body {
+    color: #343434;
+}
+/* Profile*/
+header {
+    background-color: #ea9e8d;
+}
+
+/* Projects */
+section.projects {
+    background-color: #172A3A;
+}
+
+/* Work Exp.*/
+section.work-experience {
+    background-color: #B2E4DB;
+}
+
+/* Education*/
+section.education {
+    background-color: #B0C6CE;
+}
+
