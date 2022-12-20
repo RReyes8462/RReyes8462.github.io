@@ -15,10 +15,15 @@ img {
 }
 body {
     color: #343434;
-    background-color:#F7FFF7;
+    margin: 0;
+    padding: 0;
 }
 a:hover {
     text-decoration: none;
+}
+.wrapper {
+    width: 900px;
+    margin: 0 auto;
 }
 /*NavBar*/
 header {
