@@ -4,12 +4,12 @@
 */
 /* Global stuff*/
 img {
-    width: 500px;
+    width: 300px;
 }
 body {
     color: #343434;
     background-color: #343434;
-    margin: 0 30px;
+    margin: 0 50px;
     padding: 0;
 }
 a:hover {
@@ -22,33 +22,33 @@ a:hover {
 }
 /*NavBar*/
 .navBar {
-    background-color: #462749;
+    background-color: #121420;
     color: #F7FFF7;
 }
 /* intro */
 .intro {
-    background-color: #673C4F;
+    background-color: #2D728F;
     color: #F7FFF7;
 }
 /* Projects */
 .projects {
-    background-color: #172A3A;
-    color: #F7FFF7;
+    background-color: #B2E4DB;
+ 
 }
 
 /* Work Exp.*/
 .work-experience {
-    background-color: #B2E4DB;
+    background-color: #B0C6CE;
 }
 
 /* Education*/
 .education {
-    background-color: #B0C6CE;
+    background-color: #B2E4DB;
 }
 
 /* Certifications*/
 .certifications {
-    background-color: #086788;
+    background-color: #2D728F;
     color: #F7FFF7;
 }
 
