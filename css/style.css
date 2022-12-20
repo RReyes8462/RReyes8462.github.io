@@ -25,6 +25,9 @@ a:hover {
     background-color: #121420;
     color: #F7FFF7;
 }
+.navList {
+    display: inline-block;
+}
 /* intro */
 .intro {
     background-color: #2D728F;
