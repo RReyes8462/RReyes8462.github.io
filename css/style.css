@@ -7,6 +7,7 @@
 #343434 dark gray/blackish
 #172A3A Prussian Blue
 #172A3A Blue Sapphire
+#F7FFF7 Whiteish
 */
 /* Global stuff*/
 img {
@@ -14,6 +15,7 @@ img {
 }
 body {
     color: #343434;
+    background-color: #343434;
 }
 /* Profile*/
 header {
@@ -23,6 +25,7 @@ header {
 /* Projects */
 section.projects {
     background-color: #172A3A;
+    color: #F7FFF7;
 }
 
 /* Work Exp.*/
