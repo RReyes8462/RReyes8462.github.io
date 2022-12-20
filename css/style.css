@@ -16,46 +16,65 @@ a:hover {
     text-decoration: none;
 }
 .wrapper {
-    width: 900px;
+    width: 1200px;
     margin: 0 auto;
-    padding: 30px 0;
+    padding: 20px 0;
+}
+h1 {
+  font-size: 36px;
+  margin: 0 auto;
+}
+h2 {
+  text-align: center;
 }
 /*NavBar*/
 .navBar {
     background-color: #121420;
     color: #F7FFF7;
+    text-align: center;
 }
-.navList {
+.navList li{
     display: inline-block;
+    font-size: 24px;
+    padding: 0 60px;
 }
 /* intro */
 .intro {
     background-color: #2D728F;
     color: #F7FFF7;
+    text-align: center;
 }
 /* Projects */
 .projects {
     background-color: #B2E4DB;
- 
+    text-align: center;
 }
 
 /* Work Exp.*/
 .work-experience {
     background-color: #B0C6CE;
+  text-align: center;
 }
 
 /* Education*/
 .education {
     background-color: #B2E4DB;
+  text-align: center;
 }
 
-/* Certifications*/
-.certifications {
+/* About me*/
+.aboutme {
     background-color: #2D728F;
     color: #F7FFF7;
 }
-
+/* socials*/
 .socials {
     background-color: #121420;
     color: #F7FFF7;
+    text-align: center;
+}
+.socialList li {
+    display: inline-block;
+    font-size: 24px;
+    width: 33%;
 }
