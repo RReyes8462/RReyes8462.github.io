@@ -1,12 +1,5 @@
 /*  
-#EA9E8D Vivid Tangerine
-#3c6E71 Ming (turquoiseish)
-#B2E4DB Middle Blue Green
-#B0C6CE Beau Blue
-#D64550 English Vermillion
 #343434 dark gray/blackish
-#172A3A Prussian Blue
-#172A3A Blue Sapphire
 #F7FFF7 Whiteish
 */
 /* Global stuff*/
@@ -15,7 +8,8 @@ img {
 }
 body {
     color: #343434;
-    margin: 0;
+    background-color: #343434;
+    margin: 0 30px;
     padding: 0;
 }
 a:hover {
@@ -24,14 +18,17 @@ a:hover {
 .wrapper {
     width: 900px;
     margin: 0 auto;
+    padding: 30px 0;
 }
 /*NavBar*/
-header {
-    background-color: #D64550;
+.navBar {
+    background-color: #462749;
+    color: #F7FFF7;
 }
 /* intro */
 .intro {
-    background-color: #ea9e8d
+    background-color: #673C4F;
+    color: #F7FFF7;
 }
 /* Projects */
 .projects {
@@ -49,3 +46,13 @@ header {
     background-color: #B0C6CE;
 }
 
+/* Certifications*/
+.certifications {
+    background-color: #086788;
+    color: #F7FFF7;
+}
+
+.socials {
+    background-color: #121420;
+    color: #F7FFF7;
+}
