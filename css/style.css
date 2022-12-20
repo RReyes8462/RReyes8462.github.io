@@ -20,12 +20,13 @@ a:hover {
     text-decoration: none;
 }
 /*NavBar*/
-
-/* Profile*/
 header {
-    background-color: #ea9e8d;
+    background-color: #D64550;
 }
-
+/* intro */
+.intro {
+    background-color: #ea9e8d
+}
 /* Projects */
 .projects {
     background-color: #172A3A;
