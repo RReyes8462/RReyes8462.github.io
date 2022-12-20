@@ -15,8 +15,12 @@ img {
 }
 body {
     color: #343434;
-    background-color: #343434;
 }
+a:hover {
+    text-decoration: none;
+}
+/*NavBar*/
+
 /* Profile*/
 header {
     background-color: #ea9e8d;
