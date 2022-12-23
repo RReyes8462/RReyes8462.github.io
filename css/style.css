@@ -33,6 +33,12 @@ h2 {
     color: #F7FFF7;
     text-align: center;
 }
+.navBar a:link {
+  color: #F7FFF7;
+}
+.navBar a:visited {
+  color: #F7FFF7;
+}
 .navList li{
     display: inline-block;
     font-size: 24px;
